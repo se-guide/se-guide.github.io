@@ -16,7 +16,7 @@ timezone: Europe/Moscow
 
 title: Гайд /se/ # the main title
 
-tagline: "Раб тот, кто не умеет владеть собою." - Эпиктет # it will display as the sub-title
+tagline: Раб тот, кто не умеет владеть собою - Эпиктет # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -93,7 +93,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: "https://2ch.hk/se/src/122503/17016587637170.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
